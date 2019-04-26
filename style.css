@@ -1,0 +1,85 @@
+.title_card {
+  color: #1E555C;
+  background-color: #F0D3F7;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+  letter-spacing: 1px;
+  padding: 20px;
+  box-shadow: 2px 6px;
+  border-radius: 8px;
+  margin: 30px auto;
+  width: 1300px;
+
+}
+
+img {
+  border-radius: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: "Cardo", serif;
+    font-size: 22px;
+    color: #DFD6A7;
+}
+
+h2 {
+  color: #1E555C;
+  text-align: center;
+  font-size: 35px;
+  font-family:  'Cardo', serif;
+  text-align: center;
+
+}
+
+.banner_card {
+  background-color: #878E88;
+  letter-spacing: 1px;
+  padding: 45px;
+  box-shadow: 6px 10px;
+  border-radius: 8px;
+  margin: 20px auto;
+  width: 900px;
+
+}
+
+#icon {
+  /*position: relative;*/
+  font-size: 30px;
+  color: white
+
+}
+#icon-div {
+  /*position: relative;*/
+  /*border: 2px solid white*/
+  text-align: center;
+}
+
+#link {
+  color: #1E555C;
+  background-color: #F0D3F7;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+  letter-spacing: 1px;
+  padding: 20px;
+  box-shadow: 2px 6px;
+  border-radius: 8px;
+
+}
+
+.inline > li {
+  display: inline-block;
+}
+
+.container {
+  background-color: #FFEDE1;
+}
